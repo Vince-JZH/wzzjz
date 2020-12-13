@@ -101,7 +101,7 @@ input[type=button], input[type=submit], input[type=file], button{ cursor: pointe
 .mainNav a:hover{text-decoration: none}
 .mainNav{font-size: 16px;position: relative;zoom: 1;}
 .mainNav:after{content: ".";display: block;height: 0;clear: both;visibility: hidden;}
-.mainNav .li1{text-align: center; float: left;width: 110px; position: relative;}
+.mainNav .li1{text-align: center; float: left;width: 130px; position: relative;}
 .mainNav .a1{display: block;zoom: 1;}
 .mainNav .a1:hover{ text-decoration: none;}
 .mainNav .on1 .a1{background:#16447c;color: #fff;}
